@@ -28,6 +28,6 @@ h2 {text-align: center;
 h3 {text-align: right;
     font-weight: lighter;
     font-style: initial;
-    text-underline-position: 100;
+    text-decoration: underline;
     background-color: rgb(157, 206, 246);
 }
