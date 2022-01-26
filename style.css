@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    margin: 0 auto;
+    width:95%
+}
+
+h1 {
+    color: cyan;
+    background-color: black;
+    margin-top:.5em;
+    margin-bottom:.2em;
+    font-family: monospace; 
+    font-weight: bold;
+    font-size: 5em;
+}
+h2 {text-align: center;
+    background-color: purple;
+    color: white;
+    font-style: oblique;
+    margin-bottom: .5em;
+}
+h3 {text-align: right;
+    font-weight: lighter;
+    font-style: initial;
+    text-underline-position: 100;
+    background-color: rgb(157, 206, 246);
+}
